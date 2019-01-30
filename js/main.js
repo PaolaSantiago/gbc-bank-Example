@@ -1,6 +1,6 @@
 
 
-let balance = 0;
+let balance = 1000;
 let name = `John Doe`;
 
 
